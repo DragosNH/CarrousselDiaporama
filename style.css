@@ -3,6 +3,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     width: 100vw;
     height: 100vh;
 }
@@ -17,8 +18,13 @@ body{
     justify-content: space-between;
 }
 
+.image{
+    
+}
+
 .container{
     margin-top: 50px;
+    width: 90vw;
 }
 
 .left-btn{
