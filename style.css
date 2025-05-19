@@ -38,3 +38,9 @@ body{
 .img-txt{
     width: 450px;
 }
+
+#threejs-background {
+    width: 90vw;
+    height: 90vh;
+    overflow: hidden;
+}
