@@ -1,4 +1,3 @@
-const imgContainer = document.querySelectorAll(".img-container");
 const img = document.querySelectorAll(".image")
 const rightBtn = document.querySelector(".right-btn");
 const leftBtn = document.querySelector(".left-btn");

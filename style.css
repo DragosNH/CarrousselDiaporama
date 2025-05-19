@@ -16,3 +16,19 @@ body{
     align-items: center;
     justify-content: space-between;
 }
+
+.container{
+    margin-top: 50px;
+}
+
+.left-btn{
+    font-size: 20px;
+}
+
+.right-btn{
+    font-size: 20px;
+}
+
+.img-txt{
+    width: 450px;
+}
